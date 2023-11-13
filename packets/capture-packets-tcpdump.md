@@ -1,6 +1,6 @@
 # Tcpdump Packets Capture Overview
 
-.## Overview
+## Overview
 
 Security analysts are tasked with capturing and analyzing network traffic in a Linux environment using `tcpdump`. The focus was on identifying network interfaces, filtering live network traffic, capturing data into a packet capture (pcap) file, and finally examining the captured packet data.
 
