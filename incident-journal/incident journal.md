@@ -75,7 +75,7 @@ Instead of paying the ransom, the company should focus on implementing effective
 | The 5 W's | ● Who: An unknown malicious actor <br> ● What: An email sent to an employee contained a malicious file attachment with the SHA-256 file hash of 54e6ea47eb04634d3e87fd7787e2136ccfbcc80ade34f246a12cf93bab527f6b <br> ● Where: An employee's computer at a financial services company <br> ● When: At 1:20 p.m., an alert was sent to the organization's SOC after the intrusion detection system detected the file <br> ● Why: An employee was able to download and execute a malicious file attachment via e-mail. |
 | Additional notes | 1. How can this incident be prevented in the future? <br> 2. Should improving security awareness training be a priority so that employees are careful with what they click on? |
 
-##1. How can this incident be prevented in the future?
+## 1. How can this incident be prevented in the future?
 -Enhanced Email Security:
 
   - Implement advanced email filtering systems to detect and block phishing emails.
