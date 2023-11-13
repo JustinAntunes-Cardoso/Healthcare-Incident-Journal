@@ -1,4 +1,4 @@
-# Project Scope: Incident Response Chronicles in Cybersecurity
+# Healthcare Hiccups: Navigating Incidents in Cybersecurity
 
 ## Background
 
