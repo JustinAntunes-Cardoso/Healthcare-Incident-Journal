@@ -1,4 +1,4 @@
-# Healthcare Hiccups: Navigating Incidents in Cybersecurity
+# Healthcare Hiccups - Ransomware Saga
 
 ## Background
 
