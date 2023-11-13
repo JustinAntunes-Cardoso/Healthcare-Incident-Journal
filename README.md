@@ -22,7 +22,7 @@ This project navigates the aftermath of the security incident, encapsulated in t
 
 ## Supporting Material
 
-Refer to the [Incident Handler's Journal](#), meticulously recording findings after each activity, reflecting newfound knowledge and posing critical questions about incident prevention and response.
+Refer to the [Incident Handler's Journal](https://github.com/JustinAntunes-Cardoso/Healthcare-Incident-Journal/blob/main/incident-journal/incident%20journal.md), meticulously recording findings after each activity, reflecting newfound knowledge and posing critical questions about incident prevention and response.
 
 ## Project Activities
 
