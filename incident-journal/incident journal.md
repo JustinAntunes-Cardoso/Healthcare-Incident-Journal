@@ -37,7 +37,7 @@ The decision to pay a ransom is complex and depends on various factors. However,
 
   - There's no guarantee that paying the ransom will result in the decryption key being provided. Some attackers may not fulfill their promises even after payment.
 
--Funding Criminal Activities:
+- Funding Criminal Activities:
 
   - Paying the ransom funds criminal activities and encourages attackers to continue their malicious actions, potentially targeting the same organization again.
 
@@ -76,7 +76,7 @@ Instead of paying the ransom, the company should focus on implementing effective
 | Additional notes | 1. How can this incident be prevented in the future? <br> 2. Should improving security awareness training be a priority so that employees are careful with what they click on? |
 
 ## 1. How can this incident be prevented in the future?
--Enhanced Email Security:
+- Enhanced Email Security:
 
   - Implement advanced email filtering systems to detect and block phishing emails.
   - Train employees to recognize and report suspicious emails, especially those with attachments or links.
@@ -93,19 +93,19 @@ Yes, improving security awareness training should be a top priority for the foll
 
   - Employees play a crucial role in the organization's cybersecurity defense. Enhancing their awareness makes them a more effective "human firewall" against cyber threats.
 
--Phishing Defense:
+- Phishing Defense:
 
   - Most security incidents, including the one described, involve phishing attempts. Improved awareness can empower employees to recognize and avoid falling victim to phishing.
 
--Risk Reduction:
+- Risk Reduction:
 
   - Educated employees are less likely to engage in risky behaviors that could compromise the organization's security.
 
--Continuous Learning:
+- Continuous Learning:
 
   - Cyber threats evolve, and ongoing training ensures that employees stay informed about the latest tactics used by cybercriminals.
 
--Cultural Shift:
+- Cultural Shift:
 
   - A security-conscious culture fosters a collective responsibility for cybersecurity, creating a more resilient organization.
 
